@@ -1,2 +1,2 @@
 # projeto_site
- Projeto de uma pagina de login e reserva de um hotel, com banco de dados
+ Projeto de um CRUD html/css/js
